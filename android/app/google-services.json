@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "1035144714654",
+    "project_id": "my-smart-app-327518",
+    "storage_bucket": "my-smart-app-327518.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035144714654:android:14d0a2fcbe3cd0b5125e8f",
+        "android_client_info": {
+          "package_name": "br.com.my_smart_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035144714654-tjs2olllg278vptmja44ki7s3j7tjohe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.my_smart_app",
+            "certificate_hash": "ae8580531e5d648b6d9439b8b7e8e0f9f203788c"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3nKMgxIcbSlshXgpi1Epuh5Ip5kzcdCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035144714654-9rm1vkaucispbg7k18bs235ibtf20ouu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
